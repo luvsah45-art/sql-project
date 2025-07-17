@@ -1,0 +1,1 @@
+This project simulates an online bookstore database using SQL, with sample data for books customers and their orders. It demonstrates core concepts such as table creation, data insertion, querying relational database management
